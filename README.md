@@ -1,5 +1,7 @@
 note: Run the Project file. 
 
+Ever wish iron man was iron dinosaur?
+
 This program displays a variety of skins for the ever classic Chrome dinosaur. Now he can
 be Iron Man, Bugs Bunny, Darth Vader, Winnie the Pooh, Zero Suit Samus, and Barney the Dinosaur.
 There is also a birthday mode in which the dino dons a hat (taken from the
